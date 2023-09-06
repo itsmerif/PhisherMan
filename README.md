@@ -3,7 +3,7 @@ This repository contains a list of potential malicious websites detected by my t
 
 The lists herein may also be used to create a blacklist for your organisation and/or your personal firewall, or a central DNS.
 
-Splitting the files in chunks of files not more than 10MB each for easier download and processing!
-All the files are in text. Use Notepad to view/edit. (Notepad++ is recommended though!)
+Splitting the files in chunks of files not more than 10MB each, for easier download and processing!
+All the files contain clear text. Use Notepad to view/edit. (Notepad++ is recommended though!)
 
 --itsmeRiF
